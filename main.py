@@ -47,7 +47,7 @@ def write_text(title, url):
 # 保存json文件
 def save_json(books, json_path):
 
-    with open(json_path,"rb") as f:
+    with open(json_path,"w+") as f:
         try:
             content = json.load(f)
 
