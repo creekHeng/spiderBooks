@@ -46,3 +46,15 @@ pip install lxml
 + [字典的添加、创建、删除等](https://blog.csdn.net/cadi2011/article/details/85857917)
 + [Python判断字符串是否符合某一正则表达式](https://blog.csdn.net/diezhuzhen5707/article/details/101767552?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-101767552-blog-107944677.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-101767552-blog-107944677.pc_relevant_default&utm_relevant_index=1)
   
+
+### 更新日志
+
+### 2022-8-26
+  
+  #### 更新内容
+  + 将书章节、网址以json文件格式保存
+  + 根据json文件动态追加更新的文章
+
+  #### 预期计划
+  + 指定章节查看
+           
